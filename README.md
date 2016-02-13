@@ -1,2 +1,2 @@
 # Spoj-Solutions
-Some of my spoj solutions
+A collection of my Spoj solutions.
